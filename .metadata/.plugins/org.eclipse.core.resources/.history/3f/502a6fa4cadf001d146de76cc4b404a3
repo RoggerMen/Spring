@@ -1,0 +1,10 @@
+package com.crud.model;
+
+import jakarta.persistence.Entity;
+
+@Entity
+public class producto {
+	
+	
+
+}
